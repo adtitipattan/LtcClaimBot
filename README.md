@@ -1,3 +1,3 @@
-# Bot untuk memudah kan task bonus dari @LtclaimBot Telegram 
+# Bot untuk @LtclaimBot Telegram 
 
 > join disini `https://t.me/LtclaimBot?start=r05820305920`
